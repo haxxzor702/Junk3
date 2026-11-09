@@ -1,0 +1,6 @@
+Fixed v24: restored append_winding_road() removed by earlier vegetation edit; added draw_ellipse() custom helper (Godot does not supply this draw API). All Morvex T2 loot restrictions and save data remain unchanged.
+
+Additional Godot 4.7 compatibility fix:
+- Renamed the cave ellipse helper to draw_cave_oval to avoid a possible
+  CanvasItem method-name conflict in newer Godot editor versions.
+- Explicitly typed the polygon point array.

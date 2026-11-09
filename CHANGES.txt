@@ -1,0 +1,1 @@
+v41: Select class to see live equipped-character preview; PLAY button to launch, 1-5 preview, Enter play.

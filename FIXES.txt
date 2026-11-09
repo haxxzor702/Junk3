@@ -1,0 +1,8 @@
+Emberwild corrected project (November 2026)
+- Fixed variant-array type inference for attack_speed and damage in scripts/game.gd.
+- Fixed Color constructor alpha arguments used in the HUD.
+- Fixed Android screen orientation to landscape.
+
+This project has been inspected but NOT executed in Godot or tested on Android.
+Extract the ZIP, then import project.godot into Godot Android Editor as a NEW project.
+If it still fails, open the Output / Debugger panel and share the first red error.
